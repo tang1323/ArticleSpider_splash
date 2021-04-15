@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cb35e27-9770-41ac-b388-6214c2eb799c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bNViQ926vucLib2jr8xfP7k2iC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BaiduNetdiskDownload\ArticleSpider_splash\ArticleSpider_splash\tools" />
+      <recent name="D:\BaiduNetdiskDownload\ArticleSpider_splash" />
+      <recent name="D:\BaiduNetdiskDownload\ArticleSpider_splash\ArticleSpider_splash\spiders" />
+      <recent name="D:\BaiduNetdiskDownload\ArticleSpider_splash\ArticleSpider_two\tools" />
+      <recent name="D:\BaiduNetdiskDownload\ArticleSpider_two\ArticleSpider_two\spiders" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ArticleSpider_two" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cb35e27-9770-41ac-b388-6214c2eb799c" name="Default Changelist" comment="" />
+      <created>1588472664562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588472664562</updated>
+      <workItem from="1588472665684" duration="18000" />
+      <workItem from="1588472731680" duration="1000" />
+      <workItem from="1588749861951" duration="5000" />
+      <workItem from="1609556662806" duration="103000" />
+      <workItem from="1610437802582" duration="453000" />
+      <workItem from="1610438340655" duration="10592000" />
+      <workItem from="1610514083937" duration="3161000" />
+      <workItem from="1610526669143" duration="12794000" />
+      <workItem from="1610856313617" duration="920000" />
+      <workItem from="1618451108533" duration="263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="706" height="466" key="DebuggerActiveHint" timestamp="1610533770909">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="706" height="466" key="DebuggerActiveHint/0.31.1440.929@0.31.1440.929" timestamp="1610533770909" />
+    <state x="491" y="266" key="FileChooserDialogImpl" timestamp="1610871371354">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="491" y="266" key="FileChooserDialogImpl/0.31.1440.929@0.31.1440.929" timestamp="1610871371354" />
+    <state width="1240" height="334" key="GridCell.Tab.0.bottom" timestamp="1610549298888">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1240" height="334" key="GridCell.Tab.0.bottom/0.31.1440.929@0.31.1440.929" timestamp="1610549298888" />
+    <state width="1240" height="334" key="GridCell.Tab.0.center" timestamp="1610549298888">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1240" height="334" key="GridCell.Tab.0.center/0.31.1440.929@0.31.1440.929" timestamp="1610549298888" />
+    <state width="1240" height="334" key="GridCell.Tab.0.left" timestamp="1610549298887">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1240" height="334" key="GridCell.Tab.0.left/0.31.1440.929@0.31.1440.929" timestamp="1610549298887" />
+    <state width="1240" height="334" key="GridCell.Tab.0.right" timestamp="1610549298888">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1240" height="334" key="GridCell.Tab.0.right/0.31.1440.929@0.31.1440.929" timestamp="1610549298888" />
+    <state width="1240" height="334" key="GridCell.Tab.1.bottom" timestamp="1610549298888">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1240" height="334" key="GridCell.Tab.1.bottom/0.31.1440.929@0.31.1440.929" timestamp="1610549298888" />
+    <state width="1240" height="334" key="GridCell.Tab.1.center" timestamp="1610549298888">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1240" height="334" key="GridCell.Tab.1.center/0.31.1440.929@0.31.1440.929" timestamp="1610549298888" />
+    <state width="1240" height="334" key="GridCell.Tab.1.left" timestamp="1610549298888">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1240" height="334" key="GridCell.Tab.1.left/0.31.1440.929@0.31.1440.929" timestamp="1610549298888" />
+    <state width="1240" height="334" key="GridCell.Tab.1.right" timestamp="1610549298888">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1240" height="334" key="GridCell.Tab.1.right/0.31.1440.929@0.31.1440.929" timestamp="1610549298888" />
+    <state x="212" y="153" key="SettingsEditor" timestamp="1610438576820">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="212" y="153" key="SettingsEditor/0.31.1440.929@0.31.1440.929" timestamp="1610438576820" />
+    <state x="356" y="193" width="638" height="534" key="find.popup" timestamp="1610440218905">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="356" y="193" width="638" height="534" key="find.popup/0.31.1440.929@0.31.1440.929" timestamp="1610440218905" />
+    <state x="535" y="281" width="672" height="678" key="search.everywhere.popup" timestamp="1610439116997">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="535" y="281" width="672" height="678" key="search.everywhere.popup/0.31.1440.929@0.31.1440.929" timestamp="1610439116997" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider_splash/spiders/lagou_splash.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider_splash/spiders/lagou_splash.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy_redis/dupefilter.py</url>
+          <line>109</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy_redis/dupefilter.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy_redis/dupefilter.py</url>
+          <line>111</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy_redis/dupefilter.py</url>
+          <line>112</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy_redis/dupefilter.py</url>
+          <line>113</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ArticleSpider_splash$main.coverage" NAME="main Coverage Results" MODIFIED="1610549124657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
